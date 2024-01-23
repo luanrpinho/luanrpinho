@@ -11,6 +11,7 @@
 - SQL
 - Excel
 - Python
+- Power BI
 
 
 <div>
