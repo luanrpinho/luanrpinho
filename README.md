@@ -9,8 +9,8 @@
 ## 🛠️ Linguagens e ferramentas que utilizo e busco aperfeiçoar a cada dia:
 - R
 - SQL
+- NoSQL (MongoDB)
 - Excel
-- Python
 - Power BI
 
 
