@@ -2,14 +2,14 @@
 ![data-visualization-tools](https://github.com/luanrpinho/luanrpinho/assets/156137815/143e10c5-d1b4-4117-a4b5-7aa484687422)
 
 
-- 🔰  Atualmente sou Militar do Exército Brasileiro.
+- 🔰  Sou Ex-militar do Exército Brasileiro.
 - 🎓 Sou formado em Defesa Cibernética na Universidade Estácio de Sá.
 - 👀 Busco uma vaga como Analista de Dados Júnior.
 
 ## 🛠️ Linguagens e ferramentas que utilizo e busco aperfeiçoar a cada dia:
 - R
 - SQL
-- NoSQL (Cassandra)
+- NoSQL
 - Excel
 - Power BI
 
