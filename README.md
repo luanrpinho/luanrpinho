@@ -4,13 +4,14 @@
 
 - 🔰  Sou Ex-militar do Exército Brasileiro.
 - 🎓 Sou formado em Defesa Cibernética na Universidade Estácio de Sá.
-- 👀 Busco uma vaga como Analista de Dados Júnior.
+- 👀 Buscando uma oportunidade como Analista de Dados Júnior e/ou Analista de BI Júnior.
 
 ## 🛠️ Linguagens e ferramentas que utilizo e busco aperfeiçoar a cada dia:
 - R
 - SQL
 - Excel
 - Power BI
+- MongoDB
 
 
 <div>
